@@ -1,4 +1,4 @@
-# [Lise St. Denis]
+# Lise St. Denis
 
 Welcome to the docker_demo repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
 
