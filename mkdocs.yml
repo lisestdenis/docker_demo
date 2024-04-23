@@ -4,8 +4,8 @@ site_author: Ty Tuff
 site_url: https://lisestdenis.github.io/docker_demo
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: lisestdenis
+repo_url: https://github.com/lisestdenis/docker_demo
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
