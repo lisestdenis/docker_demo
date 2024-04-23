@@ -8,7 +8,7 @@ Practice working with creating docker containers
 
 ## Project Proposal
 
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+Amazing software I want to share with the world!
 
 ## Collaborators
 - ...
